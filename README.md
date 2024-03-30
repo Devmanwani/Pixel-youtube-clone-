@@ -8,6 +8,14 @@ Make sure to download the ffmpeg as it is required to get the duration and thumb
 and make a folder named videos
 inside videos create a folder named thumbnails
 for a overview of the website check 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=SLObHERY3Qc" frameborder="0" allowfullscreen></iframe>
+<iframe
+  width="640"
+  height="480"
+  src="https://www.youtube.com/embed/UmX4kyB2wfg"
+  frameborder="0"
+  allow="autoplay; encrypted-media"
+  allowfullscreen
+>
+</iframe>
 
 
