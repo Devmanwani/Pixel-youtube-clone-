@@ -7,4 +7,5 @@ Make sure to download the ffmpeg as it is required to get the duration and thumb
 
 and make a folder named videos
 inside videos create a folder named thumbnails
-for a overview of the website check https://drive.google.com/file/d/1b1glpYe10H14RizDLpQaZsZ6Nz4MrZzI/view?usp=share_link
+for a overview of the website check 
+[Link to YouTube Video]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID](https://www.youtube.com/watch?v=SLObHERY3Qc&t=6s))
